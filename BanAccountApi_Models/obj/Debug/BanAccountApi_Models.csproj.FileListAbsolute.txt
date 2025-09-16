@@ -1,0 +1,12 @@
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\bin\Debug\BanAccountApi_Models.dll
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\bin\Debug\BanAccountApi_Models.pdb
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.csproj.AssemblyReference.cache
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.csproj.CoreCompileInputs.cache
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.dll
+C:\Users\vnatara3\source\repos\BankAccountApi_Silac\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.pdb
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\bin\Debug\BanAccountApi_Models.dll
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\bin\Debug\BanAccountApi_Models.pdb
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.csproj.AssemblyReference.cache
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.csproj.CoreCompileInputs.cache
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.dll
+C:\Users\vnatara3\source\repos\BankAccountApi_Axos\BanAccountApi_Models\obj\Debug\BanAccountApi_Models.pdb
